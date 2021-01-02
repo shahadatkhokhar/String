@@ -1,0 +1,10 @@
+public class Main {
+public static void main(String[] args) {
+String s1 = "Shahadat"; 
+String s2 = "Shahadat"; 
+System.out.println(s1.compareTo(s2));
+}
+}
+
+
+
